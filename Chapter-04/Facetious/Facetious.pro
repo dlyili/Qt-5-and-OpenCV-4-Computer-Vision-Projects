@@ -16,8 +16,8 @@ unix: mac {
 }
 
 win32 {
-    INCLUDEPATH += c:/path/to/opencv/include/opencv4
-    LIBS += -lc:/path/to/opencv/lib/opencv_world
+    INCLUDEPATH += D:\work\opensource\dev\src\opencv\opencv-4.0.1\build\include
+    LIBS += -lD:\work\opensource\dev\src\opencv\opencv-4.0.1\build\x64\vc15\lib\opencv_world401d
 }
 
 
