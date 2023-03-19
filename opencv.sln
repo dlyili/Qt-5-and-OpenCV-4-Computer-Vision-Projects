@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Facetious", "Chapter-04\Fac
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Literacy", "Chapter-05\Literacy\Literacy.vcxproj", "{58E6E9AE-E470-3F99-B0B4-436D3DC142ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{CA6BFAF6-F1DA-4786-9C09-97E1D2F4513C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -69,6 +71,10 @@ Global
 		{58E6E9AE-E470-3F99-B0B4-436D3DC142ED}.Debug|x64.Build.0 = Debug|x64
 		{58E6E9AE-E470-3F99-B0B4-436D3DC142ED}.Release|x64.ActiveCfg = Release|x64
 		{58E6E9AE-E470-3F99-B0B4-436D3DC142ED}.Release|x64.Build.0 = Release|x64
+		{CA6BFAF6-F1DA-4786-9C09-97E1D2F4513C}.Debug|x64.ActiveCfg = Debug|x64
+		{CA6BFAF6-F1DA-4786-9C09-97E1D2F4513C}.Debug|x64.Build.0 = Debug|x64
+		{CA6BFAF6-F1DA-4786-9C09-97E1D2F4513C}.Release|x64.ActiveCfg = Release|x64
+		{CA6BFAF6-F1DA-4786-9C09-97E1D2F4513C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
